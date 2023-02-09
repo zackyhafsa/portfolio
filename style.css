@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    background-color: #6c757d;
+   /* height: 1000rem;  */
+}
+.jumbotron{
+ background-color: white;
+ padding-top: 5rem;
+}
+
+#about{
+    color: white;
+}
+#projects{
+    background-color: white;
+}
+.card{
+    color: white;
+}
+section{
+    padding-top: 5rem;
+}
